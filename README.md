@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ozgurcekmer
 - 👀 I’m an experienced HPC engineer who has been working for various scientific applications. However, I created this page for personal development.
-- 🌱 I’m currently learning web development
+- 🌱 My current focus is on GPU programming and Optimisation
 - 📫 You can reach me via cekmerozgur@gmail.com
 
 <!---
